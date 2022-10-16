@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Robin Rai
 - 👀 I’m interested in Software Development and Data Science.
 - 🌱 I’m currently learning Django and Machine Learning.
-- 💞️ I’m looking to collaborate on Open Source Projects and software Development .
+- 💞️ I’m looking to collaborate on Open Source Projects and Software Development .
 - 📫 How to reach me  ...
 
 <!---
