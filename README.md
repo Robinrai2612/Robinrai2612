@@ -32,7 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robinrai2612&show_icons=true&locale=en&layout=compact" alt="robinrai2612" /></p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robinrai2612&show_icons=true&locale=en" alt="robinrai2612" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robinrai2612&" alt="robinrai2612" /></p>
 
