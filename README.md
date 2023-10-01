@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Robin Rai</h1>
 <h3 align="center">A passionate web developer and open-source enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47n1tvhzxop21h8qva58vgoh2wh74oij2nto6eduiz&ep=v1_gifs_search&rid=giphy.gif&ct=g">
@@ -35,7 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robinrai2612&show_icons=true&locale=en&layout=compact" alt="robinrai2612" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robinrai2612&show_icons=true&locale=en" alt="robinrai2612" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robinrai2612&" alt="robinrai2612" /></p>
 
