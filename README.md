@@ -1,11 +1,10 @@
 
+
+
 <h1 align="center">Hi 👋, I'm Robin Rai</h1>
 <h3 align="center">A passionate web developer and open-source enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47n1tvhzxop21h8qva58vgoh2wh74oij2nto6eduiz&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinrai2612&label=Profile%20views&color=0e75b6&style=flat" alt="robinrai2612" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robinrai2612" alt="robinrai2612" /></a> </p>
 
 - 🔭 I’m currently working on **Bus Booking System Using ReactJS**
 
@@ -25,6 +24,7 @@
 <p align="left">
 <a href="https://twitter.com/robinra56748260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="robinra56748260" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/robin-rai-cse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robin-rai-cse/" height="30" width="40" /></a>
+<a href="https://instagram.com/robin_rai_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robin_rai_26" height="30" width="40" /></a>
 <a href="https://hashnode.com/@robinrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@robinrai" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/robinsrai2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="robinsrai2000" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/robin_rai123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="robin_rai123/" height="30" width="40" /></a>
@@ -38,3 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robinrai2612&show_icons=true&locale=en" alt="robinrai2612" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robinrai2612&" alt="robinrai2612" /></p>
+
