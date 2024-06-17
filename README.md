@@ -4,9 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47n1tvhzxop21h8qva58vgoh2wh74oij2nto6eduiz&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinrai2612&label=Profile%20views&color=0e75b6&style=flat" alt="robinrai2612" /> </p>
 
-- 🔭 I’m currently working on **Bus Booking System Using ReactJS**
-
-- 🌱 I’m currently learning **ReactJS, Operating System**
+- 🌱 I’m currently learning **Nodejs**
 
 - 👯 I’m looking to collaborate on **Various web development projects and open-source initiatives.**
 
