@@ -1,6 +1,6 @@
  [![An image of @robinrai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/robinrai)](https://holopin.io/@robinrai)
 <h1 align="center">Hi 👋, I'm Robin Rai</h1>
-<h3 align="center">A passionate Web Developer and an Open-source Enthusiast.</h3>
+<h3 align="center">A passionate Web Developer, Devops Engineer and an Open-source Enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47n1tvhzxop21h8qva58vgoh2wh74oij2nto6eduiz&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinrai2612&label=Profile%20views&color=0e75b6&style=flat" alt="robinrai2612" /> </p>
 
